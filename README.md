@@ -16,7 +16,3 @@ HTML5, CSS3, JavaScript
 Bootstrap
 Git
 
-Installation:
-Clone the repository: git clone https://github.com/your-username/your-repo.git
-Open the project folder in your code editor
-Run index.html in your browser
